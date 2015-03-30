@@ -19,5 +19,4 @@ def choose(name_list):
 	#key, value = dict.get("Wood Tavern")
 	#print "key is:",key, "value: ",value
 	#print name_list
-	random_number = randrange(len(name_list))
-	return name_list[random_number]
+	return name_list[randrange(len(name_list))]
