@@ -24,4 +24,3 @@ def getLongitude():
 
 def getCity():
 	return city
-
